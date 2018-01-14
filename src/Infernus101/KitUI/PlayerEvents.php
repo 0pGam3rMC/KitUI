@@ -16,6 +16,7 @@ use pocketmine\network\mcpe\protocol\ModalFormResponsePacket;
 use pocketmine\Player;
 use pocketmine\tile\Sign;
 use Infernus101\KitUI\UI\Handler;
+use pocketmine\item\enchantment\EnchantmentInstance;
 
 class PlayerEvents implements Listener {
 	
